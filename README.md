@@ -1,0 +1,1 @@
+Bus Booking Application Using Python and Tinkter. Bus Booking application provides basic applications like searching bus, book a ticket and cancel a ticket and may more . Data is also added that contains information about all the buses, destinations and boardings.
